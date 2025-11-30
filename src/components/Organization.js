@@ -15,8 +15,8 @@ function Organization() {
       number: "01",
       title: "HALDI",
       titleHindi: "हल्दी (आशीर्वाद)",
-      date: "17 February",
-      dateHindi: "17 फरवरी",
+      date: "18 February",
+      dateHindi: "18 फरवरी",
       description:
         "A ritual where turmeric paste is applied to the bride and groom by family members to bless them and prepare them for the wedding day.",
       descriptionHindi:
@@ -27,37 +27,13 @@ function Organization() {
       number: "02",
       title: "MARWA",
       titleHindi: "मरवा (रिवाज)",
-      date: "17 February",
-      dateHindi: "17 फरवरी",
+      date: "18 February",
+      dateHindi: "18 फरवरी",
       description:
         "A regional custom observed in parts of Bihar where playful rituals and family traditions are performed to honor the couple and bring good fortune.",
       descriptionHindi:
         "बिहार के कुछ हिस्सों में मनाया जाने वाला स्थानीय रीति-रिवाज, जहाँ दंपति का सम्मान और शुभकामनाएँ देने के लिए खेल-तमाशे और पारिवारिक परंपराएँ निभाई जाती हैं।",
       image: marwa,
-    },
-    {
-      number: "03",
-      title: "MEHNDI",
-      titleHindi: "मेहन्दी (हाथों पर सजावट)",
-      date: "18 February",
-      dateHindi: "18 फरवरी",
-      description:
-        "A colourful pre-wedding event where henna is applied on the bride's (and sometimes groom's) hands and feet, accompanied by songs, dance and family festivities.",
-      descriptionHindi:
-        "दुल्हन (और कभी-कभी दूल्हा) के हाथों और पैरों पर हिना लगाई जाती है; गीत, नृत्य और पारिवारिक खुशियों के साथ यह एक रंगीन समारोह है।",
-      image: mehndi,
-    },
-    {
-      number: "04",
-      title: "SANGEET",
-      titleHindi: "संगीत संध्या",
-      date: "18 February",
-      dateHindi: "18 फरवरी",
-      description:
-        "An evening of music and dance where both families celebrate together, perform songs and dances, and enjoy a joyous cultural programme.",
-      descriptionHindi:
-        "एक संगीत और नृत्य की शाम जहाँ दोनों परिवार साथ मिलकर जश्न मनाते हैं, गीत और नृत्य प्रस्तुत करते हैं और आनंददायक कार्यक्रम का आनंद लेते हैं।",
-      image: sangeet,
     },
     {
       number: "05",

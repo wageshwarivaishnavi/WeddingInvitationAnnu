@@ -226,7 +226,7 @@ function Header() {
                       {isInvitationHindi ? "हल्दी और मरवा" : "Haldi & Marwa"}
                     </h3>
                     <div className="event-date">
-                      {isInvitationHindi ? "17 फ़रवरी, 2026" : "Feb 17, 2026"}
+                      {isInvitationHindi ? "18 फ़रवरी, 2026" : "Feb 18, 2026"}
                     </div>
                     <div className="event-time">
                       {isInvitationHindi
@@ -241,43 +241,6 @@ function Header() {
                     </div>
                   </div>
                 </div>
-
-                <div
-                  className="event-card animate-box"
-                  data-animate-effect="fadeInUp"
-                  onClick={() => handleEventCardClick("mehndi-sangeet")}
-                  role="button"
-                  tabIndex="0"
-                  onKeyPress={(e) =>
-                    e.key === "Enter" && handleEventCardClick("mehndi-sangeet")
-                  }
-                >
-                  <div className="event-card-inner">
-                    <div className="calendar-icon-badge">
-                      <i className="ti-calendar"></i>
-                    </div>
-                    <h3 className="event-title">
-                      {isInvitationHindi
-                        ? "मेहंदी और संगीत"
-                        : "Mehndi & Sangeet"}
-                    </h3>
-                    <div className="event-date">
-                      {isInvitationHindi ? "18 फ़रवरी, 2026" : "Feb 18, 2026"}
-                    </div>
-                    <div className="event-time">
-                      {isInvitationHindi
-                        ? "शाम 06:00 - 10:00"
-                        : "06:00 PM Onwards"}
-                    </div>
-                    <div className="add-calendar-hint">
-                      <i className="ti-plus"></i>
-                      {isInvitationHindi
-                        ? "कैलेंडर में जोड़ें"
-                        : "Add to Calendar"}
-                    </div>
-                  </div>
-                </div>
-
                 <div
                   className="event-card animate-box"
                   data-animate-effect="fadeInUp"
