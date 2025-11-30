@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/WeddingInvitationAnnu/static/css/main.4f540cf7.css",
-    "main.js": "/WeddingInvitationAnnu/static/js/main.4a8aa25f.js",
-    "static/js/761.9a6265fd.chunk.js": "/WeddingInvitationAnnu/static/js/761.9a6265fd.chunk.js",
+    "main.js": "/WeddingInvitationAnnu/static/js/main.f8445286.js",
+    "static/js/243.ce2e0bb5.chunk.js": "/WeddingInvitationAnnu/static/js/243.ce2e0bb5.chunk.js",
     "static/js/248.a95696a3.chunk.js": "/WeddingInvitationAnnu/static/js/248.a95696a3.chunk.js",
     "static/css/34.8d0274cc.chunk.css": "/WeddingInvitationAnnu/static/css/34.8d0274cc.chunk.css",
     "static/js/34.f01ebfd8.chunk.js": "/WeddingInvitationAnnu/static/js/34.f01ebfd8.chunk.js",
@@ -13,8 +13,6 @@
     "static/media/marwa.png": "/WeddingInvitationAnnu/static/media/marwa.8a0d46806f771e56e7d3.png",
     "static/media/pheras.png": "/WeddingInvitationAnnu/static/media/pheras.23a669ae5ed7744ae74e.png",
     "static/media/bharat.png": "/WeddingInvitationAnnu/static/media/bharat.cb4ecf459884e2e21417.png",
-    "static/media/sangeet.png": "/WeddingInvitationAnnu/static/media/sangeet.b8a930bbfcfd4c5848a5.png",
-    "static/media/mehndi.png": "/WeddingInvitationAnnu/static/media/mehndi.c2b5c1058a31b79a41df.png",
     "static/media/7.webp": "/WeddingInvitationAnnu/static/media/7.2b0dd34ee1507e33a501.webp",
     "static/media/12.webp": "/WeddingInvitationAnnu/static/media/12.e77f6aef54a0b805f7bf.webp",
     "static/media/krishFarms.webp": "/WeddingInvitationAnnu/static/media/krishFarms.762b48c86a75fb2c47c4.webp",
@@ -31,8 +29,8 @@
     "static/media/3.webp": "/WeddingInvitationAnnu/static/media/3.e80517b02771f38ff363.webp",
     "index.html": "/WeddingInvitationAnnu/index.html",
     "main.4f540cf7.css.map": "/WeddingInvitationAnnu/static/css/main.4f540cf7.css.map",
-    "main.4a8aa25f.js.map": "/WeddingInvitationAnnu/static/js/main.4a8aa25f.js.map",
-    "761.9a6265fd.chunk.js.map": "/WeddingInvitationAnnu/static/js/761.9a6265fd.chunk.js.map",
+    "main.f8445286.js.map": "/WeddingInvitationAnnu/static/js/main.f8445286.js.map",
+    "243.ce2e0bb5.chunk.js.map": "/WeddingInvitationAnnu/static/js/243.ce2e0bb5.chunk.js.map",
     "248.a95696a3.chunk.js.map": "/WeddingInvitationAnnu/static/js/248.a95696a3.chunk.js.map",
     "34.8d0274cc.chunk.css.map": "/WeddingInvitationAnnu/static/css/34.8d0274cc.chunk.css.map",
     "34.f01ebfd8.chunk.js.map": "/WeddingInvitationAnnu/static/js/34.f01ebfd8.chunk.js.map",
@@ -40,6 +38,6 @@
   },
   "entrypoints": [
     "static/css/main.4f540cf7.css",
-    "static/js/main.4a8aa25f.js"
+    "static/js/main.f8445286.js"
   ]
 }
