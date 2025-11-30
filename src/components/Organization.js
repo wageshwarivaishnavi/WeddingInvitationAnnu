@@ -1,8 +1,6 @@
 import { useState } from "react";
 import haldi from "../assets/images/haldi.png";
-import mehndi from "../assets/images/mehndi.png";
 import marwa from "../assets/images/marwa.png";
-import sangeet from "../assets/images/sangeet.png";
 import pheras from "../assets/images/pheras.png";
 import vidaai from "../assets/images/vidai.png";
 import baraat from "../assets/images/bharat.png";
@@ -36,7 +34,7 @@ function Organization() {
       image: marwa,
     },
     {
-      number: "05",
+      number: "03",
       title: "BARAAT",
       titleHindi: "बाराात (दूल्हा की शोभा यात्रा)",
       date: "19 February",
@@ -48,7 +46,7 @@ function Organization() {
       image: baraat,
     },
     {
-      number: "06",
+      number: "04",
       title: "WEDDING (PHERAS)",
       titleHindi: "विवाह (फेरे)",
       date: "19 February",
@@ -60,7 +58,7 @@ function Organization() {
       image: pheras,
     },
     {
-      number: "07",
+      number: "05",
       title: "VIDAAI",
       titleHindi: "विदाई",
       date: "19 February",
